@@ -1,20 +1,20 @@
 {
-  "name": "login-usuario-roles",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/EduardoPalomino/node-login-usuario-roles.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/EduardoPalomino/node-login-usuario-roles/issues"
-  },
-  "homepage": "https://github.com/EduardoPalomino/node-login-usuario-roles#readme"
+    "name": "login-usuario-roles",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: c no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/EduardoPalomino/node-login-usuario-roles.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/EduardoPalomino/node-login-usuario-roles/issues"
+    },
+    "homepage": "https://github.com/EduardoPalomino/node-login-usuario-roles#readme"
 }
